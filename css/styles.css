@@ -1,0 +1,28 @@
+body{
+  background-color: #f8f1f1;
+  text-align: center;
+}
+h1{
+  font-family: 'Ma Shan Zheng', cursive;
+  font-size: 50px;
+  color: #ffabe1;
+}
+h3{
+  font-family: 'Indie Flower', cursive;
+  font-size: 3.2rem;
+  margin: 30px 10px;
+  color: #a685e2;
+}
+img{
+  max-width: 20%;
+  margin: auto;
+}
+h4{
+  position: absolute;
+  margin: 0 25%;
+  font-size: 2rem;
+  width: 50%;
+
+  font-family: 'Indie Flower', cursive;
+  color: red;
+}
